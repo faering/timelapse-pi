@@ -1,5 +1,1 @@
-This is a repository with an application for Raspberry Pi.
-
-Features:
-	Timelapse (to come)
-	Sensor temp/hum (later)
+A timelapse project created to run on a Raspberry Pi with automatic synchronization of images to a remote VPS. The server will generate the timelapse video using ffmpeg and upload to the open source cloud application Nextcloud, where the timelapse can be watched from any device with internet access.
